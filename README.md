@@ -36,4 +36,16 @@ Easier learning curve vs. Docker  Wideer range of support  runs on any machine t
 Streamline workflow  All developers use supported OS   Just getting started Need support wider range of OS. 
 
 
+Will need to install Git, VirtualBox, Vagrant, 
 
+git config --global user.email  " email address"   ---->>>>  sets the email address to use in git bash 
+git config --global user.name "name"  ---->>>  sets the name in git bash 
+
+Install VirtualBox  at www.virtualbox.org 
+
+Install Vagrant at https://www.vagrantup.com
+Default  Vagrant desitnation C:\HashiCorp\Vagrant\ 
+
+vagrant --version in gitbash to test if it is installed correctly should provide a version type. 
+
+modheader extension for google chrome https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj/related?hl=en
