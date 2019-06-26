@@ -19,3 +19,21 @@
 
 #DOCKER VS VAGRANT 
 
+Virtualization technology to isolate the application from the machine its running on.  
+
+What is docker? 
+
+Open source containerization tool run app in light weight image.   Creates a docker file featuring all of the steps needed to build the application. 
+
+Docker limitations  steeper learning curve.  
+
+Vagrant  mange virtual development environments   
+
+Hypervisor (i.e Virtualbox)   
+Create a vagrant file that includes all steps to build  development server.  
+Steamlined but complex version of Linux OS 
+Easier learning curve vs. Docker  Wideer range of support  runs on any machine that supports Virtual Box  
+Streamline workflow  All developers use supported OS   Just getting started Need support wider range of OS. 
+
+
+
